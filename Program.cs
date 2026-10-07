@@ -1,1 +1,1 @@
-﻿Console.WriteLine("Hello, Visual Stdio Git!");
+﻿Console.WriteLine("Hello, newBranch!");
